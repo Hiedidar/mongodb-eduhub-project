@@ -1,0 +1,197 @@
+[
+    {
+        "_id": {
+            "$oid": "684d618f30a6e8a80723bde6"
+        },
+        "assignmentId": "assign_500",
+        "courseId": "course_207",
+        "title": "Assignment 1 for course_207",
+        "description": "Complete the exercises for Assignment 1.",
+        "dueDate": {
+            "$date": "2025-06-20T11:48:31.791Z"
+        },
+        "createdAt": {
+            "$date": "2025-06-14T11:48:31.791Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684d618f30a6e8a80723bde7"
+        },
+        "assignmentId": "assign_501",
+        "courseId": "course_202",
+        "title": "Assignment 2 for course_202",
+        "description": "Complete the exercises for Assignment 2.",
+        "dueDate": {
+            "$date": "2025-06-24T11:48:31.791Z"
+        },
+        "createdAt": {
+            "$date": "2025-06-14T11:48:31.791Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684d618f30a6e8a80723bde8"
+        },
+        "assignmentId": "assign_502",
+        "courseId": "course_208",
+        "title": "Assignment 3 for course_208",
+        "description": "Complete the exercises for Assignment 3.",
+        "dueDate": {
+            "$date": "2025-06-22T11:48:31.791Z"
+        },
+        "createdAt": {
+            "$date": "2025-06-14T11:48:31.791Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684d618f30a6e8a80723bde9"
+        },
+        "assignmentId": "assign_503",
+        "courseId": "course_201",
+        "title": "Assignment 4 for course_201",
+        "description": "Complete the exercises for Assignment 4.",
+        "dueDate": {
+            "$date": "2025-06-18T11:48:31.791Z"
+        },
+        "createdAt": {
+            "$date": "2025-06-14T11:48:31.791Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684d618f30a6e8a80723bdea"
+        },
+        "assignmentId": "assign_504",
+        "courseId": "course_211",
+        "title": "Assignment 5 for course_211",
+        "description": "Complete the exercises for Assignment 5.",
+        "dueDate": {
+            "$date": "2025-06-27T11:48:31.791Z"
+        },
+        "createdAt": {
+            "$date": "2025-06-14T11:48:31.791Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684d618f30a6e8a80723bdeb"
+        },
+        "assignmentId": "assign_505",
+        "courseId": "course_208",
+        "title": "Assignment 6 for course_208",
+        "description": "Complete the exercises for Assignment 6.",
+        "dueDate": {
+            "$date": "2025-06-27T11:48:31.791Z"
+        },
+        "createdAt": {
+            "$date": "2025-06-14T11:48:31.791Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684d618f30a6e8a80723bdec"
+        },
+        "assignmentId": "assign_506",
+        "courseId": "course_200",
+        "title": "Assignment 7 for course_200",
+        "description": "Complete the exercises for Assignment 7.",
+        "dueDate": {
+            "$date": "2025-06-26T11:48:31.791Z"
+        },
+        "createdAt": {
+            "$date": "2025-06-14T11:48:31.791Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684d618f30a6e8a80723bded"
+        },
+        "assignmentId": "assign_507",
+        "courseId": "course_208",
+        "title": "Assignment 8 for course_208",
+        "description": "Complete the exercises for Assignment 8.",
+        "dueDate": {
+            "$date": "2025-06-23T11:48:31.791Z"
+        },
+        "createdAt": {
+            "$date": "2025-06-14T11:48:31.791Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684d618f30a6e8a80723bdee"
+        },
+        "assignmentId": "assign_508",
+        "courseId": "course_209",
+        "title": "Assignment 9 for course_209",
+        "description": "Complete the exercises for Assignment 9.",
+        "dueDate": {
+            "$date": "2025-06-21T11:48:31.791Z"
+        },
+        "createdAt": {
+            "$date": "2025-06-14T11:48:31.791Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684d618f30a6e8a80723bdef"
+        },
+        "assignmentId": "assign_509",
+        "courseId": "course_210",
+        "title": "Assignment 10 for course_210",
+        "description": "Complete the exercises for Assignment 10.",
+        "dueDate": {
+            "$date": "2025-06-24T11:48:31.791Z"
+        },
+        "createdAt": {
+            "$date": "2025-06-14T11:48:31.791Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684d618f30a6e8a80723bdf0"
+        },
+        "assignmentId": "assign_510",
+        "courseId": "course_200",
+        "title": "Assignment 11 for course_200",
+        "description": "Complete the exercises for Assignment 11.",
+        "dueDate": {
+            "$date": "2025-06-23T11:48:31.791Z"
+        },
+        "createdAt": {
+            "$date": "2025-06-14T11:48:31.791Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684d618f30a6e8a80723bdf1"
+        },
+        "assignmentId": "assign_511",
+        "courseId": "course_203",
+        "title": "Assignment 12 for course_203",
+        "description": "Complete the exercises for Assignment 12.",
+        "dueDate": {
+            "$date": "2025-06-26T11:48:31.791Z"
+        },
+        "createdAt": {
+            "$date": "2025-06-14T11:48:31.791Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "684d618f30a6e8a80723bdf2"
+        },
+        "assignmentId": "assign_512",
+        "courseId": "course_204",
+        "title": "Assignment 13 for course_204",
+        "description": "Complete the exercises for Assignment 13.",
+        "dueDate": {
+            "$date": "2025-06-27T11:48:31.791Z"
+        },
+        "createdAt": {
+            "$date": "2025-06-14T11:48:31.791Z"
+        }
+    }
+]

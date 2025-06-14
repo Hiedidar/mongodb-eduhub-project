@@ -1,0 +1,212 @@
+[
+    {
+        "_id": {
+            "$oid": "684d624b30a6e8a80723bdf3"
+        },
+        "submissionId": "sub_600",
+        "assignmentId": "assign_500",
+        "studentId": "user_101",
+        "submittedAt": {
+            "$date": "2025-06-14T11:51:39.893Z"
+        },
+        "content": "This is submission content #1.",
+        "grade": 88.5,
+        "feedback": "Well done!"
+    },
+    {
+        "_id": {
+            "$oid": "684d624b30a6e8a80723bdf4"
+        },
+        "submissionId": "sub_601",
+        "assignmentId": "assign_510",
+        "studentId": "user_129",
+        "submittedAt": {
+            "$date": "2025-06-14T11:51:39.893Z"
+        },
+        "content": "This is submission content #2.",
+        "grade": 83,
+        "feedback": "Feedback for submission #2."
+    },
+    {
+        "_id": {
+            "$oid": "684d624b30a6e8a80723bdf5"
+        },
+        "submissionId": "sub_602",
+        "assignmentId": "assign_506",
+        "studentId": "user_129",
+        "submittedAt": {
+            "$date": "2025-06-14T11:51:39.893Z"
+        },
+        "content": "This is submission content #3.",
+        "grade": 93,
+        "feedback": "Feedback for submission #3."
+    },
+    {
+        "_id": {
+            "$oid": "684d624b30a6e8a80723bdf6"
+        },
+        "submissionId": "sub_603",
+        "assignmentId": "assign_504",
+        "studentId": "user_125",
+        "submittedAt": {
+            "$date": "2025-06-14T11:51:39.893Z"
+        },
+        "content": "This is submission content #4.",
+        "grade": 81,
+        "feedback": "Feedback for submission #4."
+    },
+    {
+        "_id": {
+            "$oid": "684d624b30a6e8a80723bdf7"
+        },
+        "submissionId": "sub_604",
+        "assignmentId": "assign_512",
+        "studentId": "user_117",
+        "submittedAt": {
+            "$date": "2025-06-14T11:51:39.893Z"
+        },
+        "content": "This is submission content #5.",
+        "grade": 79,
+        "feedback": "Feedback for submission #5."
+    },
+    {
+        "_id": {
+            "$oid": "684d624b30a6e8a80723bdf8"
+        },
+        "submissionId": "sub_605",
+        "assignmentId": "assign_504",
+        "studentId": "user_107",
+        "submittedAt": {
+            "$date": "2025-06-14T11:51:39.893Z"
+        },
+        "content": "This is submission content #6.",
+        "grade": 85,
+        "feedback": "Feedback for submission #6."
+    },
+    {
+        "_id": {
+            "$oid": "684d624b30a6e8a80723bdf9"
+        },
+        "submissionId": "sub_606",
+        "assignmentId": "assign_501",
+        "studentId": "user_111",
+        "submittedAt": {
+            "$date": "2025-06-14T11:51:39.893Z"
+        },
+        "content": "This is submission content #7.",
+        "grade": 82,
+        "feedback": "Feedback for submission #7."
+    },
+    {
+        "_id": {
+            "$oid": "684d624b30a6e8a80723bdfa"
+        },
+        "submissionId": "sub_607",
+        "assignmentId": "assign_503",
+        "studentId": "user_117",
+        "submittedAt": {
+            "$date": "2025-06-14T11:51:39.893Z"
+        },
+        "content": "This is submission content #8.",
+        "grade": 84,
+        "feedback": "Feedback for submission #8."
+    },
+    {
+        "_id": {
+            "$oid": "684d624b30a6e8a80723bdfb"
+        },
+        "submissionId": "sub_608",
+        "assignmentId": "assign_510",
+        "studentId": "user_111",
+        "submittedAt": {
+            "$date": "2025-06-14T11:51:39.893Z"
+        },
+        "content": "This is submission content #9.",
+        "grade": 69,
+        "feedback": "Feedback for submission #9."
+    },
+    {
+        "_id": {
+            "$oid": "684d624b30a6e8a80723bdfc"
+        },
+        "submissionId": "sub_609",
+        "assignmentId": "assign_509",
+        "studentId": "user_117",
+        "submittedAt": {
+            "$date": "2025-06-14T11:51:39.893Z"
+        },
+        "content": "This is submission content #10.",
+        "grade": 68,
+        "feedback": "Feedback for submission #10."
+    },
+    {
+        "_id": {
+            "$oid": "684d624b30a6e8a80723bdfd"
+        },
+        "submissionId": "sub_610",
+        "assignmentId": "assign_512",
+        "studentId": "user_121",
+        "submittedAt": {
+            "$date": "2025-06-14T11:51:39.893Z"
+        },
+        "content": "This is submission content #11.",
+        "grade": 93,
+        "feedback": "Feedback for submission #11."
+    },
+    {
+        "_id": {
+            "$oid": "684d624b30a6e8a80723bdfe"
+        },
+        "submissionId": "sub_611",
+        "assignmentId": "assign_504",
+        "studentId": "user_117",
+        "submittedAt": {
+            "$date": "2025-06-14T11:51:39.893Z"
+        },
+        "content": "This is submission content #12.",
+        "grade": 86,
+        "feedback": "Feedback for submission #12."
+    },
+    {
+        "_id": {
+            "$oid": "684d624b30a6e8a80723bdff"
+        },
+        "submissionId": "sub_612",
+        "assignmentId": "assign_505",
+        "studentId": "user_111",
+        "submittedAt": {
+            "$date": "2025-06-14T11:51:39.893Z"
+        },
+        "content": "This is submission content #13.",
+        "grade": 90,
+        "feedback": "Feedback for submission #13."
+    },
+    {
+        "_id": {
+            "$oid": "684d624b30a6e8a80723be00"
+        },
+        "submissionId": "sub_613",
+        "assignmentId": "assign_501",
+        "studentId": "user_101",
+        "submittedAt": {
+            "$date": "2025-06-14T11:51:39.893Z"
+        },
+        "content": "This is submission content #14.",
+        "grade": 80,
+        "feedback": "Feedback for submission #14."
+    },
+    {
+        "_id": {
+            "$oid": "684d624b30a6e8a80723be01"
+        },
+        "submissionId": "sub_614",
+        "assignmentId": "assign_501",
+        "studentId": "user_129",
+        "submittedAt": {
+            "$date": "2025-06-14T11:51:39.893Z"
+        },
+        "content": "This is submission content #15.",
+        "grade": 80,
+        "feedback": "Feedback for submission #15."
+    }
+]

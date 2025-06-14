@@ -1,0 +1,262 @@
+[
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdb4"
+        },
+        "enrollmentId": "enroll_300",
+        "studentId": "user_124",
+        "courseId": "course_204",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.064Z"
+        },
+        "progress": 64.66,
+        "completed": false
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdb5"
+        },
+        "enrollmentId": "enroll_301",
+        "studentId": "user_125",
+        "courseId": "course_201",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.064Z"
+        },
+        "progress": 9.49,
+        "completed": true
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdb6"
+        },
+        "enrollmentId": "enroll_302",
+        "studentId": "user_111",
+        "courseId": "course_209",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.064Z"
+        },
+        "progress": 19.72,
+        "completed": false
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdb7"
+        },
+        "enrollmentId": "enroll_303",
+        "studentId": "user_124",
+        "courseId": "course_207",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.064Z"
+        },
+        "progress": 46.43,
+        "completed": false
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdb8"
+        },
+        "enrollmentId": "enroll_304",
+        "studentId": "user_117",
+        "courseId": "course_201",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.064Z"
+        },
+        "progress": 47.2,
+        "completed": true
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdb9"
+        },
+        "enrollmentId": "enroll_305",
+        "studentId": "user_100",
+        "courseId": "course_201",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.064Z"
+        },
+        "progress": 53.08,
+        "completed": true
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdba"
+        },
+        "enrollmentId": "enroll_306",
+        "studentId": "user_113",
+        "courseId": "course_208",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.064Z"
+        },
+        "progress": 31.09,
+        "completed": true
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdbb"
+        },
+        "enrollmentId": "enroll_307",
+        "studentId": "user_124",
+        "courseId": "course_203",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.064Z"
+        },
+        "progress": 50.64,
+        "completed": true
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdbc"
+        },
+        "enrollmentId": "enroll_308",
+        "studentId": "user_101",
+        "courseId": "course_202",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.064Z"
+        },
+        "progress": 29.44,
+        "completed": true
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdbd"
+        },
+        "enrollmentId": "enroll_309",
+        "studentId": "user_113",
+        "courseId": "course_205",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.064Z"
+        },
+        "progress": 95.7,
+        "completed": true
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdbe"
+        },
+        "enrollmentId": "enroll_310",
+        "studentId": "user_113",
+        "courseId": "course_207",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.064Z"
+        },
+        "progress": 66.05,
+        "completed": true
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdbf"
+        },
+        "enrollmentId": "enroll_311",
+        "studentId": "user_121",
+        "courseId": "course_204",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.064Z"
+        },
+        "progress": 63.24,
+        "completed": false
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdc0"
+        },
+        "enrollmentId": "enroll_312",
+        "studentId": "user_121",
+        "courseId": "course_209",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.064Z"
+        },
+        "progress": 96.92,
+        "completed": true
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdc1"
+        },
+        "enrollmentId": "enroll_313",
+        "studentId": "user_113",
+        "courseId": "course_206",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.065Z"
+        },
+        "progress": 65.1,
+        "completed": true
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdc2"
+        },
+        "enrollmentId": "enroll_314",
+        "studentId": "user_117",
+        "courseId": "course_208",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.065Z"
+        },
+        "progress": 78.04,
+        "completed": true
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdc3"
+        },
+        "enrollmentId": "enroll_315",
+        "studentId": "user_107",
+        "courseId": "course_203",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.065Z"
+        },
+        "progress": 76.61,
+        "completed": true
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdc4"
+        },
+        "enrollmentId": "enroll_316",
+        "studentId": "user_121",
+        "courseId": "course_200",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.065Z"
+        },
+        "progress": 71.5,
+        "completed": true
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdc5"
+        },
+        "enrollmentId": "enroll_317",
+        "studentId": "user_121",
+        "courseId": "course_206",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.065Z"
+        },
+        "progress": 86.8,
+        "completed": false
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdc6"
+        },
+        "enrollmentId": "enroll_318",
+        "studentId": "user_117",
+        "courseId": "course_205",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.065Z"
+        },
+        "progress": 67.8,
+        "completed": false
+    },
+    {
+        "_id": {
+            "$oid": "684d604a30a6e8a80723bdc7"
+        },
+        "enrollmentId": "enroll_319",
+        "studentId": "user_111",
+        "courseId": "course_209",
+        "enrolledAt": {
+            "$date": "2025-06-14T11:43:06.065Z"
+        },
+        "progress": 66.5,
+        "completed": true
+    }
+]

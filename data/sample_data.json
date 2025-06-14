@@ -1,0 +1,1082 @@
+{
+    "lessons": [
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdc8"
+            },
+            "lessonId": "lesson_400",
+            "courseId": "course_204",
+            "title": "Lesson 1 for course_204",
+            "content": "Detailed content for lesson 1...",
+            "duration": 22,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdc9"
+            },
+            "lessonId": "lesson_401",
+            "courseId": "course_205",
+            "title": "Lesson 2 for course_205",
+            "content": "Detailed content for lesson 2...",
+            "duration": 31,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdca"
+            },
+            "lessonId": "lesson_402",
+            "courseId": "course_207",
+            "title": "Lesson 3 for course_207",
+            "content": "Detailed content for lesson 3...",
+            "duration": 40,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdcb"
+            },
+            "lessonId": "lesson_403",
+            "courseId": "course_202",
+            "title": "Lesson 4 for course_202",
+            "content": "Detailed content for lesson 4...",
+            "duration": 49,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdcc"
+            },
+            "lessonId": "lesson_404",
+            "courseId": "course_200",
+            "title": "Lesson 5 for course_200",
+            "content": "Detailed content for lesson 5...",
+            "duration": 29,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdcd"
+            },
+            "lessonId": "lesson_405",
+            "courseId": "course_200",
+            "title": "Lesson 6 for course_200",
+            "content": "Detailed content for lesson 6...",
+            "duration": 58,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdce"
+            },
+            "lessonId": "lesson_406",
+            "courseId": "course_202",
+            "title": "Lesson 7 for course_202",
+            "content": "Detailed content for lesson 7...",
+            "duration": 17,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdcf"
+            },
+            "lessonId": "lesson_407",
+            "courseId": "course_206",
+            "title": "Lesson 8 for course_206",
+            "content": "Detailed content for lesson 8...",
+            "duration": 15,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdd0"
+            },
+            "lessonId": "lesson_408",
+            "courseId": "course_206",
+            "title": "Lesson 9 for course_206",
+            "content": "Detailed content for lesson 9...",
+            "duration": 22,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdd1"
+            },
+            "lessonId": "lesson_409",
+            "courseId": "course_205",
+            "title": "Lesson 10 for course_205",
+            "content": "Detailed content for lesson 10...",
+            "duration": 60,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdd2"
+            },
+            "lessonId": "lesson_410",
+            "courseId": "course_201",
+            "title": "Lesson 11 for course_201",
+            "content": "Detailed content for lesson 11...",
+            "duration": 13,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdd3"
+            },
+            "lessonId": "lesson_411",
+            "courseId": "course_208",
+            "title": "Lesson 12 for course_208",
+            "content": "Detailed content for lesson 12...",
+            "duration": 33,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdd4"
+            },
+            "lessonId": "lesson_412",
+            "courseId": "course_211",
+            "title": "Lesson 13 for course_211",
+            "content": "Detailed content for lesson 13...",
+            "duration": 38,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdd5"
+            },
+            "lessonId": "lesson_413",
+            "courseId": "course_202",
+            "title": "Lesson 14 for course_202",
+            "content": "Detailed content for lesson 14...",
+            "duration": 37,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdd6"
+            },
+            "lessonId": "lesson_414",
+            "courseId": "course_202",
+            "title": "Lesson 15 for course_202",
+            "content": "Detailed content for lesson 15...",
+            "duration": 51,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdd7"
+            },
+            "lessonId": "lesson_415",
+            "courseId": "course_207",
+            "title": "Lesson 16 for course_207",
+            "content": "Detailed content for lesson 16...",
+            "duration": 13,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdd8"
+            },
+            "lessonId": "lesson_416",
+            "courseId": "course_204",
+            "title": "Lesson 17 for course_204",
+            "content": "Detailed content for lesson 17...",
+            "duration": 49,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdd9"
+            },
+            "lessonId": "lesson_417",
+            "courseId": "course_203",
+            "title": "Lesson 18 for course_203",
+            "content": "Detailed content for lesson 18...",
+            "duration": 25,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdda"
+            },
+            "lessonId": "lesson_418",
+            "courseId": "course_206",
+            "title": "Lesson 19 for course_206",
+            "content": "Detailed content for lesson 19...",
+            "duration": 27,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bddb"
+            },
+            "lessonId": "lesson_419",
+            "courseId": "course_204",
+            "title": "Lesson 20 for course_204",
+            "content": "Detailed content for lesson 20...",
+            "duration": 44,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bddc"
+            },
+            "lessonId": "lesson_420",
+            "courseId": "course_207",
+            "title": "Lesson 21 for course_207",
+            "content": "Detailed content for lesson 21...",
+            "duration": 23,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bddd"
+            },
+            "lessonId": "lesson_421",
+            "courseId": "course_204",
+            "title": "Lesson 22 for course_204",
+            "content": "Detailed content for lesson 22...",
+            "duration": 59,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bdde"
+            },
+            "lessonId": "lesson_422",
+            "courseId": "course_208",
+            "title": "Lesson 23 for course_208",
+            "content": "Detailed content for lesson 23...",
+            "duration": 36,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bddf"
+            },
+            "lessonId": "lesson_423",
+            "courseId": "course_202",
+            "title": "Lesson 24 for course_202",
+            "content": "Detailed content for lesson 24...",
+            "duration": 55,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bde0"
+            },
+            "lessonId": "lesson_424",
+            "courseId": "course_203",
+            "title": "Lesson 25 for course_203",
+            "content": "Detailed content for lesson 25...",
+            "duration": 60,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bde1"
+            },
+            "lessonId": "lesson_425",
+            "courseId": "course_204",
+            "title": "Lesson 26 for course_204",
+            "content": "Detailed content for lesson 26...",
+            "duration": 19,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bde2"
+            },
+            "lessonId": "lesson_426",
+            "courseId": "course_211",
+            "title": "Lesson 27 for course_211",
+            "content": "Detailed content for lesson 27...",
+            "duration": 29,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bde3"
+            },
+            "lessonId": "lesson_427",
+            "courseId": "course_206",
+            "title": "Lesson 28 for course_206",
+            "content": "Detailed content for lesson 28...",
+            "duration": 31,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bde4"
+            },
+            "lessonId": "lesson_428",
+            "courseId": "course_209",
+            "title": "Lesson 29 for course_209",
+            "content": "Detailed content for lesson 29...",
+            "duration": 59,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d60bc30a6e8a80723bde5"
+            },
+            "lessonId": "lesson_429",
+            "courseId": "course_203",
+            "title": "Lesson 30 for course_203",
+            "content": "Detailed content for lesson 30...",
+            "duration": 26,
+            "createdAt": {
+                "$date": "2025-06-14T11:45:00.644Z"
+            }
+        }
+    ],
+    "enrollments": [
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdb4"
+            },
+            "enrollmentId": "enroll_300",
+            "studentId": "user_124",
+            "courseId": "course_204",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.064Z"
+            },
+            "progress": 64.66,
+            "completed": false
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdb5"
+            },
+            "enrollmentId": "enroll_301",
+            "studentId": "user_125",
+            "courseId": "course_201",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.064Z"
+            },
+            "progress": 9.49,
+            "completed": true
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdb6"
+            },
+            "enrollmentId": "enroll_302",
+            "studentId": "user_111",
+            "courseId": "course_209",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.064Z"
+            },
+            "progress": 19.72,
+            "completed": false
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdb7"
+            },
+            "enrollmentId": "enroll_303",
+            "studentId": "user_124",
+            "courseId": "course_207",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.064Z"
+            },
+            "progress": 46.43,
+            "completed": false
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdb8"
+            },
+            "enrollmentId": "enroll_304",
+            "studentId": "user_117",
+            "courseId": "course_201",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.064Z"
+            },
+            "progress": 47.2,
+            "completed": true
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdb9"
+            },
+            "enrollmentId": "enroll_305",
+            "studentId": "user_100",
+            "courseId": "course_201",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.064Z"
+            },
+            "progress": 53.08,
+            "completed": true
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdba"
+            },
+            "enrollmentId": "enroll_306",
+            "studentId": "user_113",
+            "courseId": "course_208",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.064Z"
+            },
+            "progress": 31.09,
+            "completed": true
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdbb"
+            },
+            "enrollmentId": "enroll_307",
+            "studentId": "user_124",
+            "courseId": "course_203",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.064Z"
+            },
+            "progress": 50.64,
+            "completed": true
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdbc"
+            },
+            "enrollmentId": "enroll_308",
+            "studentId": "user_101",
+            "courseId": "course_202",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.064Z"
+            },
+            "progress": 29.44,
+            "completed": true
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdbd"
+            },
+            "enrollmentId": "enroll_309",
+            "studentId": "user_113",
+            "courseId": "course_205",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.064Z"
+            },
+            "progress": 95.7,
+            "completed": true
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdbe"
+            },
+            "enrollmentId": "enroll_310",
+            "studentId": "user_113",
+            "courseId": "course_207",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.064Z"
+            },
+            "progress": 66.05,
+            "completed": true
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdbf"
+            },
+            "enrollmentId": "enroll_311",
+            "studentId": "user_121",
+            "courseId": "course_204",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.064Z"
+            },
+            "progress": 63.24,
+            "completed": false
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdc0"
+            },
+            "enrollmentId": "enroll_312",
+            "studentId": "user_121",
+            "courseId": "course_209",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.064Z"
+            },
+            "progress": 96.92,
+            "completed": true
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdc1"
+            },
+            "enrollmentId": "enroll_313",
+            "studentId": "user_113",
+            "courseId": "course_206",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.065Z"
+            },
+            "progress": 65.1,
+            "completed": true
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdc2"
+            },
+            "enrollmentId": "enroll_314",
+            "studentId": "user_117",
+            "courseId": "course_208",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.065Z"
+            },
+            "progress": 78.04,
+            "completed": true
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdc3"
+            },
+            "enrollmentId": "enroll_315",
+            "studentId": "user_107",
+            "courseId": "course_203",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.065Z"
+            },
+            "progress": 76.61,
+            "completed": true
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdc4"
+            },
+            "enrollmentId": "enroll_316",
+            "studentId": "user_121",
+            "courseId": "course_200",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.065Z"
+            },
+            "progress": 71.5,
+            "completed": true
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdc5"
+            },
+            "enrollmentId": "enroll_317",
+            "studentId": "user_121",
+            "courseId": "course_206",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.065Z"
+            },
+            "progress": 86.8,
+            "completed": false
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdc6"
+            },
+            "enrollmentId": "enroll_318",
+            "studentId": "user_117",
+            "courseId": "course_205",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.065Z"
+            },
+            "progress": 67.8,
+            "completed": false
+        },
+        {
+            "_id": {
+                "$oid": "684d604a30a6e8a80723bdc7"
+            },
+            "enrollmentId": "enroll_319",
+            "studentId": "user_111",
+            "courseId": "course_209",
+            "enrolledAt": {
+                "$date": "2025-06-14T11:43:06.065Z"
+            },
+            "progress": 66.5,
+            "completed": true
+        }
+    ],
+    "courses": [],
+    "submissions": [
+        {
+            "_id": {
+                "$oid": "684d624b30a6e8a80723bdf3"
+            },
+            "submissionId": "sub_600",
+            "assignmentId": "assign_500",
+            "studentId": "user_101",
+            "submittedAt": {
+                "$date": "2025-06-14T11:51:39.893Z"
+            },
+            "content": "This is submission content #1.",
+            "grade": 88.5,
+            "feedback": "Well done!"
+        },
+        {
+            "_id": {
+                "$oid": "684d624b30a6e8a80723bdf4"
+            },
+            "submissionId": "sub_601",
+            "assignmentId": "assign_510",
+            "studentId": "user_129",
+            "submittedAt": {
+                "$date": "2025-06-14T11:51:39.893Z"
+            },
+            "content": "This is submission content #2.",
+            "grade": 83,
+            "feedback": "Feedback for submission #2."
+        },
+        {
+            "_id": {
+                "$oid": "684d624b30a6e8a80723bdf5"
+            },
+            "submissionId": "sub_602",
+            "assignmentId": "assign_506",
+            "studentId": "user_129",
+            "submittedAt": {
+                "$date": "2025-06-14T11:51:39.893Z"
+            },
+            "content": "This is submission content #3.",
+            "grade": 93,
+            "feedback": "Feedback for submission #3."
+        },
+        {
+            "_id": {
+                "$oid": "684d624b30a6e8a80723bdf6"
+            },
+            "submissionId": "sub_603",
+            "assignmentId": "assign_504",
+            "studentId": "user_125",
+            "submittedAt": {
+                "$date": "2025-06-14T11:51:39.893Z"
+            },
+            "content": "This is submission content #4.",
+            "grade": 81,
+            "feedback": "Feedback for submission #4."
+        },
+        {
+            "_id": {
+                "$oid": "684d624b30a6e8a80723bdf7"
+            },
+            "submissionId": "sub_604",
+            "assignmentId": "assign_512",
+            "studentId": "user_117",
+            "submittedAt": {
+                "$date": "2025-06-14T11:51:39.893Z"
+            },
+            "content": "This is submission content #5.",
+            "grade": 79,
+            "feedback": "Feedback for submission #5."
+        },
+        {
+            "_id": {
+                "$oid": "684d624b30a6e8a80723bdf8"
+            },
+            "submissionId": "sub_605",
+            "assignmentId": "assign_504",
+            "studentId": "user_107",
+            "submittedAt": {
+                "$date": "2025-06-14T11:51:39.893Z"
+            },
+            "content": "This is submission content #6.",
+            "grade": 85,
+            "feedback": "Feedback for submission #6."
+        },
+        {
+            "_id": {
+                "$oid": "684d624b30a6e8a80723bdf9"
+            },
+            "submissionId": "sub_606",
+            "assignmentId": "assign_501",
+            "studentId": "user_111",
+            "submittedAt": {
+                "$date": "2025-06-14T11:51:39.893Z"
+            },
+            "content": "This is submission content #7.",
+            "grade": 82,
+            "feedback": "Feedback for submission #7."
+        },
+        {
+            "_id": {
+                "$oid": "684d624b30a6e8a80723bdfa"
+            },
+            "submissionId": "sub_607",
+            "assignmentId": "assign_503",
+            "studentId": "user_117",
+            "submittedAt": {
+                "$date": "2025-06-14T11:51:39.893Z"
+            },
+            "content": "This is submission content #8.",
+            "grade": 84,
+            "feedback": "Feedback for submission #8."
+        },
+        {
+            "_id": {
+                "$oid": "684d624b30a6e8a80723bdfb"
+            },
+            "submissionId": "sub_608",
+            "assignmentId": "assign_510",
+            "studentId": "user_111",
+            "submittedAt": {
+                "$date": "2025-06-14T11:51:39.893Z"
+            },
+            "content": "This is submission content #9.",
+            "grade": 69,
+            "feedback": "Feedback for submission #9."
+        },
+        {
+            "_id": {
+                "$oid": "684d624b30a6e8a80723bdfc"
+            },
+            "submissionId": "sub_609",
+            "assignmentId": "assign_509",
+            "studentId": "user_117",
+            "submittedAt": {
+                "$date": "2025-06-14T11:51:39.893Z"
+            },
+            "content": "This is submission content #10.",
+            "grade": 68,
+            "feedback": "Feedback for submission #10."
+        },
+        {
+            "_id": {
+                "$oid": "684d624b30a6e8a80723bdfd"
+            },
+            "submissionId": "sub_610",
+            "assignmentId": "assign_512",
+            "studentId": "user_121",
+            "submittedAt": {
+                "$date": "2025-06-14T11:51:39.893Z"
+            },
+            "content": "This is submission content #11.",
+            "grade": 93,
+            "feedback": "Feedback for submission #11."
+        },
+        {
+            "_id": {
+                "$oid": "684d624b30a6e8a80723bdfe"
+            },
+            "submissionId": "sub_611",
+            "assignmentId": "assign_504",
+            "studentId": "user_117",
+            "submittedAt": {
+                "$date": "2025-06-14T11:51:39.893Z"
+            },
+            "content": "This is submission content #12.",
+            "grade": 86,
+            "feedback": "Feedback for submission #12."
+        },
+        {
+            "_id": {
+                "$oid": "684d624b30a6e8a80723bdff"
+            },
+            "submissionId": "sub_612",
+            "assignmentId": "assign_505",
+            "studentId": "user_111",
+            "submittedAt": {
+                "$date": "2025-06-14T11:51:39.893Z"
+            },
+            "content": "This is submission content #13.",
+            "grade": 90,
+            "feedback": "Feedback for submission #13."
+        },
+        {
+            "_id": {
+                "$oid": "684d624b30a6e8a80723be00"
+            },
+            "submissionId": "sub_613",
+            "assignmentId": "assign_501",
+            "studentId": "user_101",
+            "submittedAt": {
+                "$date": "2025-06-14T11:51:39.893Z"
+            },
+            "content": "This is submission content #14.",
+            "grade": 80,
+            "feedback": "Feedback for submission #14."
+        },
+        {
+            "_id": {
+                "$oid": "684d624b30a6e8a80723be01"
+            },
+            "submissionId": "sub_614",
+            "assignmentId": "assign_501",
+            "studentId": "user_129",
+            "submittedAt": {
+                "$date": "2025-06-14T11:51:39.893Z"
+            },
+            "content": "This is submission content #15.",
+            "grade": 80,
+            "feedback": "Feedback for submission #15."
+        }
+    ],
+    "users": [
+        {
+            "_id": {
+                "$oid": "684d6e0530a6e8a80723be06"
+            },
+            "userId": "U001",
+            "email": "grace.okoro@example.com",
+            "firstName": "Grace",
+            "lastName": "Okoro",
+            "role": "student",
+            "dateJoined": {
+                "$date": "2025-06-14T12:41:41.639Z"
+            },
+            "isActive": true
+        }
+    ],
+    "assignments": [
+        {
+            "_id": {
+                "$oid": "684d618f30a6e8a80723bde6"
+            },
+            "assignmentId": "assign_500",
+            "courseId": "course_207",
+            "title": "Assignment 1 for course_207",
+            "description": "Complete the exercises for Assignment 1.",
+            "dueDate": {
+                "$date": "2025-06-20T11:48:31.791Z"
+            },
+            "createdAt": {
+                "$date": "2025-06-14T11:48:31.791Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d618f30a6e8a80723bde7"
+            },
+            "assignmentId": "assign_501",
+            "courseId": "course_202",
+            "title": "Assignment 2 for course_202",
+            "description": "Complete the exercises for Assignment 2.",
+            "dueDate": {
+                "$date": "2025-06-24T11:48:31.791Z"
+            },
+            "createdAt": {
+                "$date": "2025-06-14T11:48:31.791Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d618f30a6e8a80723bde8"
+            },
+            "assignmentId": "assign_502",
+            "courseId": "course_208",
+            "title": "Assignment 3 for course_208",
+            "description": "Complete the exercises for Assignment 3.",
+            "dueDate": {
+                "$date": "2025-06-22T11:48:31.791Z"
+            },
+            "createdAt": {
+                "$date": "2025-06-14T11:48:31.791Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d618f30a6e8a80723bde9"
+            },
+            "assignmentId": "assign_503",
+            "courseId": "course_201",
+            "title": "Assignment 4 for course_201",
+            "description": "Complete the exercises for Assignment 4.",
+            "dueDate": {
+                "$date": "2025-06-18T11:48:31.791Z"
+            },
+            "createdAt": {
+                "$date": "2025-06-14T11:48:31.791Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d618f30a6e8a80723bdea"
+            },
+            "assignmentId": "assign_504",
+            "courseId": "course_211",
+            "title": "Assignment 5 for course_211",
+            "description": "Complete the exercises for Assignment 5.",
+            "dueDate": {
+                "$date": "2025-06-27T11:48:31.791Z"
+            },
+            "createdAt": {
+                "$date": "2025-06-14T11:48:31.791Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d618f30a6e8a80723bdeb"
+            },
+            "assignmentId": "assign_505",
+            "courseId": "course_208",
+            "title": "Assignment 6 for course_208",
+            "description": "Complete the exercises for Assignment 6.",
+            "dueDate": {
+                "$date": "2025-06-27T11:48:31.791Z"
+            },
+            "createdAt": {
+                "$date": "2025-06-14T11:48:31.791Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d618f30a6e8a80723bdec"
+            },
+            "assignmentId": "assign_506",
+            "courseId": "course_200",
+            "title": "Assignment 7 for course_200",
+            "description": "Complete the exercises for Assignment 7.",
+            "dueDate": {
+                "$date": "2025-06-26T11:48:31.791Z"
+            },
+            "createdAt": {
+                "$date": "2025-06-14T11:48:31.791Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d618f30a6e8a80723bded"
+            },
+            "assignmentId": "assign_507",
+            "courseId": "course_208",
+            "title": "Assignment 8 for course_208",
+            "description": "Complete the exercises for Assignment 8.",
+            "dueDate": {
+                "$date": "2025-06-23T11:48:31.791Z"
+            },
+            "createdAt": {
+                "$date": "2025-06-14T11:48:31.791Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d618f30a6e8a80723bdee"
+            },
+            "assignmentId": "assign_508",
+            "courseId": "course_209",
+            "title": "Assignment 9 for course_209",
+            "description": "Complete the exercises for Assignment 9.",
+            "dueDate": {
+                "$date": "2025-06-21T11:48:31.791Z"
+            },
+            "createdAt": {
+                "$date": "2025-06-14T11:48:31.791Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d618f30a6e8a80723bdef"
+            },
+            "assignmentId": "assign_509",
+            "courseId": "course_210",
+            "title": "Assignment 10 for course_210",
+            "description": "Complete the exercises for Assignment 10.",
+            "dueDate": {
+                "$date": "2025-06-24T11:48:31.791Z"
+            },
+            "createdAt": {
+                "$date": "2025-06-14T11:48:31.791Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d618f30a6e8a80723bdf0"
+            },
+            "assignmentId": "assign_510",
+            "courseId": "course_200",
+            "title": "Assignment 11 for course_200",
+            "description": "Complete the exercises for Assignment 11.",
+            "dueDate": {
+                "$date": "2025-06-23T11:48:31.791Z"
+            },
+            "createdAt": {
+                "$date": "2025-06-14T11:48:31.791Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d618f30a6e8a80723bdf1"
+            },
+            "assignmentId": "assign_511",
+            "courseId": "course_203",
+            "title": "Assignment 12 for course_203",
+            "description": "Complete the exercises for Assignment 12.",
+            "dueDate": {
+                "$date": "2025-06-26T11:48:31.791Z"
+            },
+            "createdAt": {
+                "$date": "2025-06-14T11:48:31.791Z"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "684d618f30a6e8a80723bdf2"
+            },
+            "assignmentId": "assign_512",
+            "courseId": "course_204",
+            "title": "Assignment 13 for course_204",
+            "description": "Complete the exercises for Assignment 13.",
+            "dueDate": {
+                "$date": "2025-06-27T11:48:31.791Z"
+            },
+            "createdAt": {
+                "$date": "2025-06-14T11:48:31.791Z"
+            }
+        }
+    ]
+}

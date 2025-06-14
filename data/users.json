@@ -1,0 +1,16 @@
+[
+    {
+        "_id": {
+            "$oid": "684d6e0530a6e8a80723be06"
+        },
+        "userId": "U001",
+        "email": "grace.okoro@example.com",
+        "firstName": "Grace",
+        "lastName": "Okoro",
+        "role": "student",
+        "dateJoined": {
+            "$date": "2025-06-14T12:41:41.639Z"
+        },
+        "isActive": true
+    }
+]
